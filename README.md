@@ -30,7 +30,7 @@ READ THE CODE OF CONDUCT
 ## Miscellany
 We chose our Code of Conduct as it promotes a welcoming environment for people of all ages, sex, ethnicity, and more. We encourage contributors to be empathetic, kind, and respectful to maintain a positive and friendly community. Our Code of Conduct also enforces guidelines to warn and take action against violators.
 
-We went with The Unliscence as we want our beautiful program to be blessed upon the hearts of every computer in the world (while maintingin our protection should any issues/liabilities occur).
+We went with The Unliscence as we want our beautiful program to be blessed upon the hearts of every computer in the world (while maintaining our protection should any issues/liabilities occur).
 
 
 
